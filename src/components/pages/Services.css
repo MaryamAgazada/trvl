@@ -1,0 +1,31 @@
+.service-page {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    /* background-color: #f9f9f9; */
+    /* background-color: #5953ad; ; */
+    position: absolute;
+    padding-left: 450px;
+    padding-top: 150px;
+  
+  }
+  
+/* body{
+    background-color: #5953ad;
+} */
+
+
+  .service-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  
+  }
+  
+  .service-item {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #8783BE;
+  }

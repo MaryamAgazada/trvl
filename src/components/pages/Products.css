@@ -1,0 +1,38 @@
+
+  body{
+    height: 100vh;
+  }
+  
+  /* h1{
+    color: black;
+  } */
+  .product__img{
+    height:300px ;
+    width: 100%;
+  
+  }
+  .country {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .country__title {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .categories {
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .countries {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }

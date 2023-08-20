@@ -1,0 +1,31 @@
+.country {
+    width: 300px;
+    border: 2px solid #edf2f4;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+    /* height: 420px;
+   width: 410px; */
+   list-style: none;
+  }
+  body{
+    height: 100vh;
+  }
+  .country__name {
+    font-size: 20px;
+  }
+  
+  .country__genre {
+    font-size: 14px;
+  }
+  
+  .country__image img {
+    width: 100%;
+    border-radius: 10px;
+    height:300px ;
+        width: 300px;
+        align-items: center;
+    justify-content: center;
+    display: flex;
+  }
